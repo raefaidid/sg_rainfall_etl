@@ -1,4 +1,4 @@
-#LOVE, BONITO - Data Engineer Technical Assessment: Singapore Rainfall ETL
+# LOVE, BONITO - Data Engineer Technical Assessment: Singapore Rainfall ETL
 This repository presents the solution for the Data Engineer Technical Assessment provided by LOVE, BONITO, focusing on the ETL (Extract, Transform, Load) process for Singapore rainfall data. 
 
 
